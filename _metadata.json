@@ -1,0 +1,56 @@
+{
+  "hash": "4902b8de",
+  "browserHash": "52f15928",
+  "optimized": {
+    "gsap": {
+      "src": "../../gsap/index.js",
+      "file": "gsap.js",
+      "fileHash": "c8f78c76",
+      "needsInterop": false
+    },
+    "lil-gui": {
+      "src": "../../lil-gui/dist/lil-gui.esm.js",
+      "file": "lil-gui.js",
+      "fileHash": "cff58dba",
+      "needsInterop": false
+    },
+    "three": {
+      "src": "../../three/build/three.module.js",
+      "file": "three.js",
+      "fileHash": "2260555e",
+      "needsInterop": false
+    },
+    "three/examples/jsm/controls/OrbitControls": {
+      "src": "../../three/examples/jsm/controls/OrbitControls.js",
+      "file": "three_examples_jsm_controls_OrbitControls.js",
+      "fileHash": "7558e951",
+      "needsInterop": false
+    },
+    "three/addons/controls/OrbitControls.js": {
+      "src": "../../three/examples/jsm/controls/OrbitControls.js",
+      "file": "three_addons_controls_OrbitControls__js.js",
+      "fileHash": "a87de643",
+      "needsInterop": false
+    },
+    "three/examples/jsm/loaders/FontLoader": {
+      "src": "../../three/examples/jsm/loaders/FontLoader.js",
+      "file": "three_examples_jsm_loaders_FontLoader.js",
+      "fileHash": "9950ccb5",
+      "needsInterop": false
+    },
+    "three/examples/jsm/geometries/TextGeometry": {
+      "src": "../../three/examples/jsm/geometries/TextGeometry.js",
+      "file": "three_examples_jsm_geometries_TextGeometry.js",
+      "fileHash": "65dc8475",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-WTGLFAE6": {
+      "file": "chunk-WTGLFAE6.js"
+    },
+    "chunk-A3A6HU2X": {
+      "file": "chunk-A3A6HU2X.js"
+    }
+  }
+}
